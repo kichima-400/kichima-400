@@ -1,4 +1,9 @@
+# Hi there 👋
 ## Hi there 👋
+### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
+###### Hi there 👋
 
 <!--
 **kichima-400/kichima-400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
