@@ -5,6 +5,8 @@
 ##### Hi there 👋
 ###### Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kichima-400&show_icons=true&theme=default)
+
 <!--
 **kichima-400/kichima-400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
