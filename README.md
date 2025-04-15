@@ -1,9 +1,13 @@
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
-###### Hi there 👋
+# Hi there 👋 I'm Kichima
+
+💻 Software Developer | 🛠️ C++ / Python / Java / Spring Boot / React
+
+---
+
+## 🔧 Tech Stack
+- Backend: Python, Java, Spring Boot, PostgreSQL
+- Frontend: React, TypeScript, Vite
+- Tools: Git, GitHub, SubVersion, VSCode, Docker
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kichima-400&show_icons=true&theme=tokyonight)
 
