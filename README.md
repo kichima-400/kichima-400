@@ -1,4 +1,4 @@
-# Hi there 👋 
+# 👋 
 
 💻 Software Developer | 🛠️ C++ / Python / Java / Spring Boot / React
 
