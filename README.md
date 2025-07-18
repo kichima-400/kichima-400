@@ -1,6 +1,6 @@
 # 👋 
 
-💻 Software Developer | 🛠️ C++ / Python / Java / Spring Boot / React
+💻 Software Engineer | 🛠️ C / C++ / Python / Java
 
 ---
 
