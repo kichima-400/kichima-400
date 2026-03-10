@@ -1,13 +1,11 @@
 # 👋 
 
-💻 Software Engineer | 🛠️ C / C++ / Python / Java
+💻 Software Engineer | 🛠️ C / C++ / Python
 
 ---
 
 ## 🔧 Tech Stack
-- Backend: Python, Java, Spring Boot, PostgreSQL
-- Frontend: React, TypeScript, Vite
-- Tools: Git, GitHub, SubVersion, VSCode, Docker, ChatGPT
+- Tools: GitHub, VSCode, 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kichima-400&show_icons=true&theme=tokyonight)
 
