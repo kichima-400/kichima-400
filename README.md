@@ -1,6 +1,4 @@
-<p align="center">
-  💻 Software Engineer &nbsp;|&nbsp; 🛠️ C / C++ / Python
-</p>
+💻 Software Engineer
 
 ---
 
