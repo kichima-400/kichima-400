@@ -4,9 +4,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🚗 趣味: ロードスタードライブ、ロードスターキャンプ
+- 🚗 Interests: ロードスター
 
----
+- [](https://youtube.com/watch?v=QwVlX5ndHgI&si=nPvVkbOZ679ZBX9k)
+- [](https://youtube.com/watch?v=y-Bn336UWRc&si=-qbnkoKf8scN6d7i)
+- [](https://youtube.com/watch?v=i9a56La-9Rw&si=GFddFrQGRQlmPz2G)
+- [](https://youtube.com/watch?v=2XMbvuYkbeQ&si=VQ5vPkGtEd84dLaa)
 
 ### 🛠️ Tech Stack
 
