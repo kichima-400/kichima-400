@@ -12,7 +12,7 @@
 |---|---|
 | [![](https://img.shields.io/badge/-元素の誕生-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=QwVlX5ndHgI&si=nPvVkbOZ679ZBX9k) | 宇宙・物質の起源 |
 | [![](https://img.shields.io/badge/-戸谷友則：生物誕生(仮説)-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=y-Bn336UWRc&si=-qbnkoKf8scN6d7i) | 生命の起源 |
-| [![](https://img.shields.io/badge/-中室牧子：教育科学-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=i9a56La-9Rw&si=GFddFrQGRQlmPz2G) | 教育・科学 |
+| [![](https://img.shields.io/badge/-中室牧子：教育科学-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=i9a56La-9Rw&si=GFddFrQGRQlmPz2G) | 教育 |
 | [![](https://img.shields.io/badge/-山崎元：資産形成の鉄則-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=2XMbvuYkbeQ&si=VQ5vPkGtEd84dLaa) | 資産形成 |
 
 ### 🛠️ Tech Stack
