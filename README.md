@@ -6,10 +6,10 @@
 
 - 🚗 Interests: ロードスター
 
-- [](https://youtube.com/watch?v=QwVlX5ndHgI&si=nPvVkbOZ679ZBX9k)
-- [](https://youtube.com/watch?v=y-Bn336UWRc&si=-qbnkoKf8scN6d7i)
-- [](https://youtube.com/watch?v=i9a56La-9Rw&si=GFddFrQGRQlmPz2G)
-- [](https://youtube.com/watch?v=2XMbvuYkbeQ&si=VQ5vPkGtEd84dLaa)
+- [元素の誕生](https://youtube.com/watch?v=QwVlX5ndHgI&si=nPvVkbOZ679ZBX9k)
+- [戸谷友則：生物誕生(仮説)](https://youtube.com/watch?v=y-Bn336UWRc&si=-qbnkoKf8scN6d7i)
+- [中室牧子：教育科学](https://youtube.com/watch?v=i9a56La-9Rw&si=GFddFrQGRQlmPz2G)
+- [山崎元：資産形成の鉄則](https://youtube.com/watch?v=2XMbvuYkbeQ&si=VQ5vPkGtEd84dLaa)
 
 ### 🛠️ Tech Stack
 
