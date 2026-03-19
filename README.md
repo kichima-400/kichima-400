@@ -6,10 +6,10 @@
 
 - 🚗 Interests: ロードスター
 
-- [元素の誕生](https://youtube.com/watch?v=QwVlX5ndHgI&si=nPvVkbOZ679ZBX9k)
-- [戸谷友則：生物誕生(仮説)](https://youtube.com/watch?v=y-Bn336UWRc&si=-qbnkoKf8scN6d7i)
-- [中室牧子：教育科学](https://youtube.com/watch?v=i9a56La-9Rw&si=GFddFrQGRQlmPz2G)
-- [山崎元：資産形成の鉄則](https://youtube.com/watch?v=2XMbvuYkbeQ&si=VQ5vPkGtEd84dLaa)
+- [![YouTube](https://img.shields.io/badge/元素の誕生-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=QwVlX5ndHgI&si=nPvVkbOZ679ZBX9k)
+- [![YouTube](https://img.shields.io/badge/戸谷友則：生物誕生(仮説)-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=y-Bn336UWRc&si=-qbnkoKf8scN6d7i)
+- [![YouTube](https://img.shields.io/badge/中室牧子：教育科学-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=i9a56La-9Rw&si=GFddFrQGRQlmPz2G)
+- [![YouTube](https://img.shields.io/badge/山崎元：資産形成の鉄則-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=2XMbvuYkbeQ&si=VQ5vPkGtEd84dLaa)
 
 ### 🛠️ Tech Stack
 
