@@ -16,11 +16,12 @@
 | [![](https://img.shields.io/badge/-山崎元：資産形成の鉄則-red?logo=youtube&logoColor=white)](https://youtube.com/watch?v=2XMbvuYkbeQ&si=VQ5vPkGtEd84dLaa) | 資産形成 |
 
 
-### 📝 Cheat Sheet
+### 📝 Projects
 
-Claude Code を日常的に使う中でまとめた、個人的なチートシート。
-
-[![Claude Code Cheat Sheet](https://img.shields.io/badge/Claude%20Code%20Cheat%20Sheet-View-D4A017?style=flat&logo=anthropic&logoColor=white)](https://htmlpreview.github.io/?https://github.com/kichima-400/claude-code-cheat-sheet/blob/master/cheatsheet.html)
+| | 説明 |
+|---|---|
+| [![Claude Code Cheat Sheet](https://img.shields.io/badge/Claude%20Code%20Cheat%20Sheet-D4A017?style=flat&logo=anthropic&logoColor=white)](https://htmlpreview.github.io/?https://github.com/kichima-400/claude-code-cheat-sheet/blob/master/cheatsheet.html) | Claude Code を使う中でまとめた個人的なチートシート |
+| [![Energy Metrics](https://img.shields.io/badge/Energy%20Metrics-0078D4?style=flat&logo=vercel&logoColor=white)](https://energy-metrics-uydn.vercel.app/) | 原油・LNG・石炭・為替と国内エネルギー価格の相関ダッシュボード |
 
 ---
 
