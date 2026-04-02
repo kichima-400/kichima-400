@@ -28,6 +28,14 @@
 
 ---
 
+### 📝 Cheat Sheet
+
+Claude Code を日常的に使う中でまとめた、個人的なチートシート。
+
+[![Claude Code Cheat Sheet](https://img.shields.io/badge/Claude%20Code%20Cheat%20Sheet-View-D4A017?style=flat&logo=anthropic&logoColor=white)](https://htmlpreview.github.io/?https://github.com/kichima-400/claude-code-cheat-sheet/blob/master/cheatsheet.html)
+
+---
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kichima-400&show_icons=true&theme=tokyonight)
